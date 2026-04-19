@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 from telebot import types
 
 # ==================== الإعدادات الرئيسية ====================
-BOT_TOKEN = "8691417895:AAGwvcJP4rkFq5gfvfycS1lnMm4Q3FbTrVw"
+BOT_TOKEN = "8691417895:AAGRpekQjMQ1uSPlshOePfkZQaoX5njW37w
 ADMIN_ID = 7916842400
 
 # ==================== قنوات الأزرار الشفافين ====================
